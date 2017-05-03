@@ -1,0 +1,46 @@
+# Site settings
+title: Richard Shi - Software Developer
+description: "Software, Sadness and Memes"
+baseurl: ""
+url: "http://richardshi.com" 
+
+# User settings
+username: richardshi
+profilepic: https://avatars1.githubusercontent.com/u/8863473?v=3&s=460 
+user_title: Richard Shi
+email: mail@richardshi.com
+github_username: richardshi97
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+links:
+  - title: home
+    url: /
+  - title: my posts
+    url: /posts
+  - title: series
+    url: /series
+  - title: tags
+    url: /tags
+  - title: about me
+    url: /about
+# projects in header index
+projects:
+  - name: ReactionBot.js
+    url: http://reactionbot-js.herokuapp.com/
+  - name: BarcodeScanner
+    url: https://github.com/richardshi97/BarcodeScanner
+    
+# exclude my node related stuff
+# exclude: ['package.json', 'src', 'node_modules']
