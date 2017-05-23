@@ -1,7 +1,7 @@
 {
-  "name": "victorigortemplate",
+  "name": "Richard shi",
   "version": "1.0.0",
-  "description": "My jekyll blog template.",
+  "description": "Blog based on Space template",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"
@@ -15,7 +15,7 @@
     "jekyll",
     "js"
   ],
-  "author": "Victor Igor",
+  "author": "Richard Shi",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-stylus": "^0.4.0",
