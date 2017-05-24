@@ -39,8 +39,11 @@ links:
 projects:
   - name: ReactionBot.js
     url: http://reactionbot-js.herokuapp.com/
+  - name: Personal Website
+    url: https://github.com/richardshi97/website
   - name: BarcodeScanner
     url: https://github.com/richardshi97/BarcodeScanner
+
     
 # exclude my node related stuff
 # exclude: ['package.json', 'src', 'node_modules']
