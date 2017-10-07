@@ -1,6 +1,6 @@
 # Site settings
-title: Richard Shi - Software Developer
-description: "Software, Sadness and Memes"
+title: Richard Shi - Software Guy
+description: "I make things. Sometimes they work"
 baseurl: ""
 url: "http://richardshi.com" 
 
@@ -9,7 +9,7 @@ username: richardshi
 profilepic: https://avatars1.githubusercontent.com/u/8863473?v=3&s=460 
 user_title: Richard Shi
 email: mail@richardshi.com
-github_username: richardshi97
+github_username: richard-shi
 
 # Build settings
 markdown: kramdown
@@ -40,9 +40,9 @@ projects:
   - name: ReactionBot.js
     url: http://reactionbot-js.herokuapp.com/
   - name: Personal Website
-    url: https://github.com/richardshi97/website
+    url: https://github.com/richard-shi/website
   - name: BarcodeScanner
-    url: https://github.com/richardshi97/BarcodeScanner
+    url: https://github.com/richard-shi/BarcodeScanner
 
     
 # exclude my node related stuff
